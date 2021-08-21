@@ -26,3 +26,5 @@ CountryA = Country (
 )
 
 print(CountryA)
+
+#Etapa 1 - Modelar uma classe com 5 atributos simples(Integer,String,Float,Boolean) - OK 
